@@ -5,5 +5,24 @@ body {
 h1  {
     text-align: center;
     color: white;
-    font-size: 6vw;
+    font-size: 4vw;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+    border-top: 2px solid white;
+    padding: 10px;
+}
+
+.container {
+    background-color: #4e4e4e;
+    color: white;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    Display: flex;
+    flex-direction: left;
 }
