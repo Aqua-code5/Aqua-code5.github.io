@@ -9,6 +9,7 @@ const portfolioData = {
 		{ role: 'Roblox developer', company: 'Interactive experiences', period: 'Current', detail: 'Working on gameplay features, interface systems, and player-focused improvements.' }
 	],
 	workplaces: [
+        { name: 'Little Creek RP', type: 'RedM server development', period: 'OCT 2025 - JAN 2026' },
 		{ name: 'Ashfall RP', type: 'RedM server development', period: 'JAN 2026 - AUG 2026' },
 		{ name: 'Roblox projects', type: 'Game development', period: 'Current' }
 	]
